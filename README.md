@@ -2,3 +2,4 @@
 
 Python projects from simple to advanced
 - Simple Chatty Bot
+- Bill Splitter
